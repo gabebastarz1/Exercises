@@ -2,7 +2,7 @@
 dois primeiros argumentos de linha de comando. O código fonte desse programa deve ser
 armazenado em um arquivo chamado Argumentos.java */
 
-public class Ex2 {
+public class Ex02 {
   public static void main(String[] args){
     if(args.length >= 2){
       System.out.println("Primeiro Argumento: " + args[0]);
