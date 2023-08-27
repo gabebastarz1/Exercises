@@ -7,7 +7,7 @@ F02
 Linguagem de Programação
 F03
 Programação Orientada a Objeto */
-public class Ex6 {
+public class Ex06 {
   public static void main(String[] args){
     System.out.println("F01 \n \t Lógica de programação \n F02 \n \t Linguagem de Programação \n F03 \n \t Programação Orientada a Objeto");
   }
