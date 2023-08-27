@@ -6,7 +6,7 @@ Compile e execute esse programa.
 #     #   #    #   #     #   #
 #     #   #    #   #####  ###
 */
-public class Ex9 {
+public class Ex09 {
   public static void main(String[] args){
     System.out.println("#####  ###   ##### #####  ### \n" + //
                        "#     #   #    #   #     #   #\n" + //
