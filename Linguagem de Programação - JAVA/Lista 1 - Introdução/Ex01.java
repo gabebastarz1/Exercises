@@ -2,7 +2,7 @@
 deve exibir a mensagem Hello World na saída padrão. O código fonte desse programa
 deve ser armazenado em um arquivo chamado HelloWorld.java.*/
 
-public class Ex1 {
+public class Ex01 {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
     }
