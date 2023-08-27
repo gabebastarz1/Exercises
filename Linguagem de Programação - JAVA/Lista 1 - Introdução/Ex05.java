@@ -8,7 +8,7 @@ escape \n para desenvolver esse programa.
 *****
  */
 
-public class Ex5 {
+public class Ex05 {
   public static void main(String[] args){
     System.out.println("*\n**\n***\n****\n*****");
   }
